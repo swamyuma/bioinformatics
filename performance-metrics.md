@@ -1,4 +1,4 @@
-## calculations
+# Calculations
 ## Sensitivity/Recall
   - `(tp)/(tp+fn)`
 ## Precision
