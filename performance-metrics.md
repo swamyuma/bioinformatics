@@ -1,0 +1,9 @@
+## calculations
+## Sensitivity/Recall
+  - `(tp)/(tp+fn)`
+## Precision
+  - `(tp)/(tp+fp)`
+## Specificity
+  - `(tn)/(tn+fp)`
+## Accuracy 
+  - `(tp+tn)/(tp+tn+fn+fp)`
