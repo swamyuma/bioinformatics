@@ -97,3 +97,7 @@ END {
 
       # print output
       printf("%s,%d,%d,%0.2f\n",exp_id, ii, q30bases[ii], ( cumulative_cycle_q30/cumulative_cycle_total_bases ) )
+      
+      } # for loop ends here
+} # END block ends here
+
